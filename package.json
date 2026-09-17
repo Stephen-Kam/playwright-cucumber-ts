@@ -1,0 +1,16 @@
+{
+  "name": "playwright-cucumber-ts",
+  "version": "1.0.0",
+  "description": "Minimal Playwright + TypeScript + Cucumber test repo",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.1.1",
+    "@playwright/test": "1.62.1",
+    "@types/node": "^22.7.5",
+    "playwright": "1.62.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
